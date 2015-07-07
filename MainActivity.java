@@ -25,6 +25,7 @@ public class MainActivity extends FragmentActivity {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
+		int a=0;
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
